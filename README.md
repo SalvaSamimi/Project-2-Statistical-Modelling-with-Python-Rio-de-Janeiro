@@ -1,8 +1,8 @@
-# Final-Project-Statistical-Modelling-with-Python For Rio de Janeiro, Brasil
+# Final-Project-Statistical-Modelling-with-Python For Rio de Janeiro, Brazil
 
 ## Project/Goals
 In this project, we use three different APIs, CityBikes for collecting city bikes data, and FourSquare and Yelp for collecting venues information. The effect of independent variables will be investigated on the target and a multivariable regression model will be created. 
-This prossess is performed for the city of Rio de Janeiro, Brasil. This is extra work related to the performed process for the city of Toronto, ON, CA, and presented [here](https://github.com/SalvaSamimi/Project-2-Statistical-Modelling-with-Python-Toronto-ON-CA.git) 
+This prossess is performed for the city of Rio de Janeiro, Brazil. This is extra work related to the performed process for the city of Toronto, ON, CA, and presented [here](https://github.com/SalvaSamimi/Project-2-Statistical-Modelling-with-Python-Toronto-ON-CA.git) 
 
 
 
